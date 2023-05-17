@@ -1,6 +1,6 @@
 # leriana
 
-[![header](https://github.com/AnatoliyGlushnev/AnatoliyGlushnev.githhub.io/blob/main/img/card.jpg)]
+![header](https://github.com/AnatoliyGlushnev/AnatoliyGlushnev.githhub.io/blob/main/img/card.jpg)
 
 
 
